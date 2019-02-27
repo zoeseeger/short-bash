@@ -2,7 +2,7 @@
 
 Short bash scripts that make my life easier
 
-#### get-path-from-grep.sh
+### get-path-from-grep.sh
 
 Returns path name of files with matching pattern via grep
 
